@@ -2,25 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Jarvis - Voice Assistant</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f4f4f4;
-            padding: 20px;
-            max-width: 900px;
-            margin: auto;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        code {
-            background-color: #eee;
-            padding: 2px 5px;
-            border-radius: 3px;
-        }
-    </style>
 </head>
 <body>
     <h1>🤖 Jarvis - Python Voice Assistant</h1>
