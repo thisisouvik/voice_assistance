@@ -52,6 +52,6 @@ pip install pyaudio</code></pre>
     </ul>
 
    <h2>📄 License</h2>
-    <p>MIT License - free to use and modify.</p>
+    <p>MIT License - Feel free to use and modify.</p>
 </body>
 </html>
